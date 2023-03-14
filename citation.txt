@@ -1,6 +1,6 @@
-@inproceedings{REPO-246,
+@inproceedings{REPO-245,
     author = "Yang, Qian and Zhang, Jianyi and Hao, Weituo and Spell, Gregory P. and Carin, Lawrence",
-    booktitle = "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \&amp; Data Mining",
+    booktitle = "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \\\&amp; Data Mining",
     numpages = "9",
     pages = "3845¨C3853",
     title = "{FLOP: Federated Learning on Medical Datasets Using Partial Networks}",
